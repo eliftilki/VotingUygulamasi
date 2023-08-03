@@ -6,8 +6,7 @@ namespace voting
         {
             Dictionary<string,int> filmler = new Dictionary<string, int>()
             {
-                { "nausicaa",0 },
-                { "bambi",0 },
+            
                 { "harry potter",0},
                 { "yürüyen şato",0 },
                 { "star wars",0}
